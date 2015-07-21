@@ -1,7 +1,6 @@
-R Package Template [![Build Status](https://travis-ci.org/robertzk/r-package-template.svg?branch=master)](https://travis-ci.org/robertzk/r-package-template) [![Coverage Status](https://coveralls.io/repos/robertzk/r-package-template/badge.svg?branch=master)](https://coveralls.io/r/robertzk/r-package-template)
+Simple localization for R projects [![Build Status](https://travis-ci.org/robertzk/linguine.svg?branch=master)](https://travis-ci.org/robertzk/linguine) [![Coverage Status](https://coveralls.io/repos/robertzk/linguine/badge.svg?branch=master)](https://coveralls.io/r/robertzk/linguine)
 ===========
 
-This repository offers a basic template for R packages that already includes
-Travis and [covr](http://github.com/jimhester/covr) integration.
+The initial skeleton of an [i18n](https://rubygems.org/gems/i18n/versions/0.7.0) for R.
 
 
